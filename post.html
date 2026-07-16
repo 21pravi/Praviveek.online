@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light">
-<title>Praviveek Ray — Notes</title>
+<title>Signal — Praviveek Ray</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=Figtree:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -72,7 +72,7 @@ footer a{color:var(--azure-deep);text-decoration:none}
 <body>
 <header>
   <div class="bar">
-    <a class="wordmark" href="./">Notes<span>.</span></a>
+    <a class="wordmark" href="./">Signal<span>.</span></a>
     <a class="back" href="./">← All posts</a>
   </div>
 </header>
@@ -100,7 +100,7 @@ const slug = new URLSearchParams(location.search).get('p');
     if(!meta) throw new Error('not found');
     const md = await (await fetch(`posts/${slug}.md`,{cache:'no-store'})).text();
 
-    document.title = meta.title + ' — Praviveek Ray';
+    document.title = meta.title + ' — Signal';
     const kind = meta.type==='research' ? 'research' : 'writing';
     const label = kind==='research' ? 'Research' : 'Writing';
     const words = md.trim().split(/\s+/).length;
@@ -127,9 +127,9 @@ const slug = new URLSearchParams(location.search).get('p');
     g.async = true; g.crossOrigin = 'anonymous';
     Object.entries({
       'data-repo':'21pravi/praviveek.online',
-      'data-repo-id':'R_kgDOTaTxmA',
+      'data-repo-id':'YOUR_REPO_ID',
       'data-category':'Announcements',
-      'data-category-id':'DIC_kwDOTaTxmM4DBVhy',
+      'data-category-id':'YOUR_CATEGORY_ID',
       'data-mapping':'pathname','data-strict':'1','data-reactions-enabled':'1',
       'data-emit-metadata':'0','data-input-position':'top','data-theme':'light',
       'data-lang':'en','data-loading':'lazy'
