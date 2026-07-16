@@ -34,6 +34,11 @@ jobs:
       - name: Rebuild index + RSS
         run: python scripts/build_site.py
 
+      - name: Email roundup to subscribers
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: python scripts/send_newsletter.py
+
       - name: Commit
         run: |
           git config user.name  "digest-bot"
