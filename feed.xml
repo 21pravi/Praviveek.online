@@ -5,7 +5,7 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:03:46 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why I&#x27;m publishing this</title>
@@ -19,7 +19,7 @@
       <link>https://praviveek.online/#digest-2026-07-16</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-16</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the shift from foundational model research toward practical enterprise deployment, safety automation, and specialized hardware integration. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer · OpenAI launches a physical keypad for controlling agents · Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents · Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models · Inside Ode with Anthropic, the startup betting AI services are the future of enterprise</description>
+      <description>Today&#x27;s updates focus on the shift from raw model development toward specialized security, enterprise integration, and competitive sales strategies. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer · Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents · The Download: OpenAI unveils GPT-Red and heat pumps rise in the US · How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product · Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</description>
     </item>
     <item>
       <title>Paper: Experience Memory Graph: One-Shot Error Correction for Agents</title>
