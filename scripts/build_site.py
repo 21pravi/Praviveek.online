@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = ROOT / "posts"
 DATA = ROOT / "data"
 SITE = "https://praviveek.online"
-TITLE = "Praviveek Ray — Notes"
+TITLE = "Signal — Praviveek Ray"
 DESC = "Daily AI and tech digest, research papers, and writing by a working data scientist."
 
 
