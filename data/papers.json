@@ -1,4 +1,53 @@
 {
-  "updated": "",
-  "items": []
+  "updated": "2026-07-16T11:26:10.945950+00:00",
+  "items": [
+    {
+      "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
+      "url": "https://arxiv.org/abs/2607.13884v1",
+      "date": "2026-07-15",
+      "summary": "This method uses a graph-based memory structure to help AI agents fix errors in one shot, reducing the high costs and latency of iterative self-correction loops.",
+      "authors": "Wenjun Wang, Yuchen Fang, Fengrui Liu et al.",
+      "tags": [
+        "agents",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
+      "url": "https://arxiv.org/abs/2607.13881v1",
+      "date": "2026-07-15",
+      "summary": "The authors introduce a training-free approach for detecting human-object interactions that allows models to generalize to new scenarios without needing task-specific labeled data.",
+      "authors": "Ting Lei, Jialin Liu, Zhu Xu et al.",
+      "tags": [
+        "computer vision",
+        "multimodal",
+        "paper"
+      ]
+    },
+    {
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+      "url": "https://arxiv.org/abs/2607.14070v1",
+      "date": "2026-07-15",
+      "summary": "Researchers demonstrate that simple linear probes on genomic foundation models can effectively identify biosecurity threats like antimicrobial resistance without requiring expensive model fine-tuning.",
+      "authors": "Jeremy Guntoro, Alexander Dack, Dylan Danno et al.",
+      "tags": [
+        "genomics",
+        "bioinformatics",
+        "paper"
+      ]
+    },
+    {
+      "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
+      "url": "https://arxiv.org/abs/2607.14044v1",
+      "date": "2026-07-15",
+      "summary": "This framework integrates AI across the entire professional training lifecycle to significantly speed up content creation and skill assessment for enterprise upskilling.",
+      "authors": "Tam Nguyen, Hung Nguyen, Robert Ogburn",
+      "tags": [
+        "edtech",
+        "productivity",
+        "paper"
+      ]
+    }
+  ]
 }

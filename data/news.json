@@ -1,4 +1,99 @@
 {
-  "updated": "",
-  "issues": []
+  "updated": "2026-07-16T11:26:07.817636+00:00",
+  "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-16",
+      "slug": "digest-2026-07-16",
+      "title": "AI & Tech Digest — July 16, 2026",
+      "intro": "Today's developments highlight the shift from foundational model research toward practical enterprise deployment, safety automation, and specialized hardware integration.",
+      "tags": [
+        "agents",
+        "business",
+        "enterprise",
+        "funding",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "source": "MIT Tech Review",
+          "summary": "OpenAI introduced an automated red-teaming system that utilizes self-play to identify vulnerabilities and improve the security posture of its flagship language models.",
+          "tags": [
+            "llm",
+            "safety"
+          ]
+        },
+        {
+          "title": "OpenAI launches a physical keypad for controlling agents",
+          "url": "https://www.engadget.com/2215952/openai-launches-a-physical-keypad-for-controlling-agents/",
+          "source": "Engadget",
+          "summary": "OpenAI partnered with Work Louder to release a physical keypad designed to interface with its agentic software platforms.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+          "source": "VentureBeat AI",
+          "summary": "Enterprise AI adoption is currently hindered by a gap between simple chatbot wrappers and the complex orchestration required for true autonomous agent execution.",
+          "tags": [
+            "enterprise",
+            "agents"
+          ]
+        },
+        {
+          "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+          "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic and Blackstone are investing in Ode, a firm focused on embedding engineers within organizations to facilitate the practical implementation of AI systems.",
+          "tags": [
+            "enterprise",
+            "funding"
+          ]
+        },
+        {
+          "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+          "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+          "source": "TechCrunch AI",
+          "summary": "Ode aims to accelerate enterprise AI integration by deploying specialized engineers directly into client companies to bridge the gap between model capabilities and business needs.",
+          "tags": [
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is instructing its sales teams to position its proprietary AI models as more cost-effective and efficient alternatives to those offered by OpenAI and Anthropic.",
+          "tags": [
+            "business",
+            "llm"
+          ]
+        },
+        {
+          "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+          "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+          "source": "TechCrunch AI",
+          "summary": "Amid ongoing legal disputes regarding hardware trade secrets, OpenAI has launched a specialized keyboard intended for use with its coding-focused agentic applications.",
+          "tags": [
+            "hardware",
+            "policy"
+          ]
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "source": "OpenAI",
+          "summary": "OpenAI's GPT-Red system leverages self-play methodologies to automate the detection of prompt injection and enhance the overall robustness of model alignment.",
+          "tags": [
+            "llm",
+            "safety"
+          ]
+        }
+      ]
+    }
+  ]
 }

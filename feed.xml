@@ -5,7 +5,7 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 04:50:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:26:11 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Why I&#x27;m publishing this</title>
@@ -13,6 +13,41 @@
       <guid isPermaLink="false">https://praviveek.online/post.html?p=welcome</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>A weekday AI digest, the papers I&#x27;m actually reading, and notes from building ML that touches 70M+ subscribers.</description>
+    </item>
+    <item>
+      <title>AI &amp; Tech Digest — July 16, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-16</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-16</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the shift from foundational model research toward practical enterprise deployment, safety automation, and specialized hardware integration. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer · OpenAI launches a physical keypad for controlling agents · Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents · Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models · Inside Ode with Anthropic, the startup betting AI services are the future of enterprise</description>
+    </item>
+    <item>
+      <title>Paper: Experience Memory Graph: One-Shot Error Correction for Agents</title>
+      <link>https://arxiv.org/abs/2607.13884v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.13884v1</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This method uses a graph-based memory structure to help AI agents fix errors in one shot, reducing the high costs and latency of iterative self-correction loops.</description>
+    </item>
+    <item>
+      <title>Paper: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild</title>
+      <link>https://arxiv.org/abs/2607.13881v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.13881v1</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a training-free approach for detecting human-object interactions that allows models to generalize to new scenarios without needing task-specific labeled data.</description>
+    </item>
+    <item>
+      <title>Paper: Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes</title>
+      <link>https://arxiv.org/abs/2607.14070v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.14070v1</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Researchers demonstrate that simple linear probes on genomic foundation models can effectively identify biosecurity threats like antimicrobial resistance without requiring expensive model fine-tuning.</description>
+    </item>
+    <item>
+      <title>Paper: AI-accelerated End-to-End Framework for Rapid Professional Upskilling</title>
+      <link>https://arxiv.org/abs/2607.14044v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.14044v1</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This framework integrates AI across the entire professional training lifecycle to significantly speed up content creation and skill assessment for enterprise upskilling.</description>
     </item>
   </channel>
 </rss>
