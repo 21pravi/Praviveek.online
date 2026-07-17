@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-16T18:03:46.109097+00:00",
+  "updated": "2026-07-17T04:36:29.756142+00:00",
   "items": [
+    {
+      "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.15095v1",
+      "date": "2026-07-16",
+      "summary": "This framework uses fine-tuning and retrieval to help LLM agents maintain consistent ideological stances, offering a way to simulate complex political negotiations without the usual neutrality bias.",
+      "authors": "Dylan Van Mulders, Matthias Bogaert, Dirk Van den Poel",
+      "tags": [
+        "llm",
+        "alignment",
+        "paper"
+      ]
+    },
+    {
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "url": "https://arxiv.org/abs/2607.15257v1",
+      "date": "2026-07-16",
+      "summary": "SearchOS improves information-seeking agents by using a persistent, shared state to prevent repetitive search loops, making automated web research more reliable and efficient.",
+      "authors": "Yuyao Zhang, Junjie Gao, Zhengxian Wu et al.",
+      "tags": [
+        "agents",
+        "search",
+        "paper"
+      ]
+    },
+    {
+      "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+      "url": "https://arxiv.org/abs/2607.15242v1",
+      "date": "2026-07-16",
+      "summary": "This method uses mutable low-rank sketches to update user embeddings in real-time without full model retraining, significantly reducing staleness in recommendation systems.",
+      "authors": "Hector J. Garcia, Nick Clayton",
+      "tags": [
+        "recsys",
+        "embeddings",
+        "paper"
+      ]
+    },
+    {
+      "title": "Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya",
+      "url": "https://arxiv.org/abs/2607.15209v1",
+      "date": "2026-07-16",
+      "summary": "By creating language-specific tokenizers for Ge'ez-script languages, this research improves the performance of multilingual models on low-resource African languages suffering from poor subword fragmentation.",
+      "authors": "Hailay Kidu Teklehaymanot, Debela Desalegn Yadeta, Wolfgang Nejdl",
+      "tags": [
+        "nlp",
+        "multilingual",
+        "paper"
+      ]
+    },
     {
       "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
       "url": "https://arxiv.org/abs/2607.13884v1",

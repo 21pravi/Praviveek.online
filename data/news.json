@@ -1,6 +1,101 @@
 {
-  "updated": "2026-07-16T18:03:42.752332+00:00",
+  "updated": "2026-07-17T04:36:26.639879+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-17",
+      "slug": "digest-2026-07-17",
+      "title": "AI & Tech Digest — July 17, 2026",
+      "intro": "Today's digest examines the intersection of AI safety, enterprise deployment challenges, and the growing commercialization of specialized foundation models.",
+      "tags": [
+        "ai agents",
+        "automation",
+        "business",
+        "computer vision",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+          "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+          "source": "MIT Tech Review",
+          "summary": "OpenAI has developed an internal model designed to simulate cyberattacks, aiming to improve the robustness and safety of its primary language models.",
+          "tags": [
+            "llm",
+            "security"
+          ]
+        },
+        {
+          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+          "source": "TechCrunch AI",
+          "summary": "A former DeepMind researcher secured significant early-stage funding to pursue visual AI development, highlighting investor interest in non-textual model modalities.",
+          "tags": [
+            "funding",
+            "computer vision"
+          ]
+        },
+        {
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is actively positioning its proprietary models as more cost-effective alternatives to those provided by its partners, OpenAI and Anthropic, to enterprise clients.",
+          "tags": [
+            "business",
+            "llm"
+          ]
+        },
+        {
+          "title": "Why is OpenAI selling a ChatGPT basketball?",
+          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's recent release of branded physical merchandise signals a shift toward expanding its brand identity beyond software and research services.",
+          "tags": [
+            "openai"
+          ]
+        },
+        {
+          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "source": "VentureBeat AI",
+          "summary": "Enterprises are struggling to align automated AI evaluation metrics with real-world performance, leading to frequent failures when deploying autonomous agents into production environments.",
+          "tags": [
+            "enterprise",
+            "ai agents"
+          ]
+        },
+        {
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+          "source": "VentureBeat AI",
+          "summary": "Many companies are deploying AI agents with insufficient security protocols, resulting in widespread incidents due to shared credentials and lack of isolated access controls.",
+          "tags": [
+            "security",
+            "ai agents"
+          ]
+        },
+        {
+          "title": "How Cars24 scales conversations and builds faster with OpenAI",
+          "url": "https://openai.com/index/cars24",
+          "source": "OpenAI",
+          "summary": "Cars24 is utilizing OpenAI's voice and chat technology to automate high-volume customer interactions, resulting in measurable improvements in lead recovery and operational efficiency.",
+          "tags": [
+            "enterprise",
+            "automation"
+          ]
+        },
+        {
+          "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+          "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+          "source": "TechCrunch AI",
+          "summary": "Applied Computing has raised capital to develop specialized foundation models tailored for the complex operational needs of the oil and gas industry.",
+          "tags": [
+            "funding",
+            "industry ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-16",

@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Praviveek Ray — Notes</title>
+    <title>Signal — Praviveek Ray</title>
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 18:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 04:36:30 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 17, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-17</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest examines the intersection of AI safety, enterprise deployment challenges, and the growing commercialization of specialized foundation models. The Download: OpenAI unveils GPT-Red and heat pumps rise in the US · How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product · Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic · Why is OpenAI selling a ChatGPT basketball? · The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</description>
+    </item>
     <item>
       <title>Why I&#x27;m publishing this</title>
       <link>https://praviveek.online/post.html?p=welcome</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-16</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the shift from raw model development toward specialized security, enterprise integration, and competitive sales strategies. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer · Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents · The Download: OpenAI unveils GPT-Red and heat pumps rise in the US · How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product · Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</description>
+    </item>
+    <item>
+      <title>Paper: Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents</title>
+      <link>https://arxiv.org/abs/2607.15095v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.15095v1</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This framework uses fine-tuning and retrieval to help LLM agents maintain consistent ideological stances, offering a way to simulate complex political negotiations without the usual neutrality bias.</description>
+    </item>
+    <item>
+      <title>Paper: SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration</title>
+      <link>https://arxiv.org/abs/2607.15257v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.15257v1</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>SearchOS improves information-seeking agents by using a persistent, shared state to prevent repetitive search loops, making automated web research more reliable and efficient.</description>
+    </item>
+    <item>
+      <title>Paper: Mutable Low-Rank Sketches for Retrain-Free Recommendation</title>
+      <link>https://arxiv.org/abs/2607.15242v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.15242v1</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This method uses mutable low-rank sketches to update user embeddings in real-time without full model retraining, significantly reducing staleness in recommendation systems.</description>
+    </item>
+    <item>
+      <title>Paper: Expanding the Lexicon of Ge&#x27;ez Based African Languages: A Comparative Study of Amharic and Tigrinya</title>
+      <link>https://arxiv.org/abs/2607.15209v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.15209v1</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>By creating language-specific tokenizers for Ge&#x27;ez-script languages, this research improves the performance of multilingual models on low-resource African languages suffering from poor subword fragmentation.</description>
     </item>
     <item>
       <title>Paper: Experience Memory Graph: One-Shot Error Correction for Agents</title>
