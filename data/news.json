@@ -1,6 +1,101 @@
 {
-  "updated": "2026-07-17T14:12:03.545177+00:00",
+  "updated": "2026-07-20T05:00:54.427218+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-20",
+      "slug": "digest-2026-07-20",
+      "title": "AI & Tech Digest — July 20, 2026",
+      "intro": "Today's digest covers the intersection of hardware development, AI ethics, and the psychological impact of automated decision-making.",
+      "tags": [
+        "culture",
+        "engineering",
+        "ethics",
+        "hardware",
+        "history"
+      ],
+      "items": [
+        {
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "source": "TechCrunch AI",
+          "summary": "Legal challenges from established tech giants could create significant barriers for AI companies attempting to transition into consumer hardware markets.",
+          "tags": [
+            "hardware",
+            "policy"
+          ]
+        },
+        {
+          "title": "Claude Code uses Bun written in Rust now",
+          "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+          "source": "Hacker News",
+          "summary": "The integration of Rust-based tooling into Claude Code demonstrates a shift toward more performant and efficient development environments for AI agents.",
+          "tags": [
+            "llm",
+            "engineering"
+          ]
+        },
+        {
+          "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+          "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "source": "TechCrunch AI",
+          "summary": "A new non-profit initiative aims to democratize AI access by developing infrastructure that prioritizes cultural inclusivity and cross-device compatibility.",
+          "tags": [
+            "open source",
+            "ethics"
+          ]
+        },
+        {
+          "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+          "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "source": "TechCrunch AI",
+          "summary": "High-profile figures in creative industries are expressing skepticism regarding the long-term societal implications of widespread AI adoption.",
+          "tags": [
+            "ethics",
+            "culture"
+          ]
+        },
+        {
+          "title": "How To use Claude's Reflect dashboard and learn when it's time to touch grass",
+          "url": "https://www.engadget.com/2217921/how-to-use-claude-reflect-dashboard-guide/",
+          "source": "Engadget",
+          "summary": "New dashboard features for AI tools are being designed to encourage user well-being by promoting breaks and mitigating digital fatigue.",
+          "tags": [
+            "productivity",
+            "ux"
+          ]
+        },
+        {
+          "title": "AI advice made people less accurate but more confident – sudy",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News",
+          "summary": "Research indicates that relying on AI suggestions can lead to overconfidence while simultaneously degrading the quality of human critical thinking and decision-making.",
+          "tags": [
+            "research",
+            "psychology"
+          ]
+        },
+        {
+          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+          "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+          "source": "Hacker News",
+          "summary": "Practical experience in manufacturing suggests that the barriers to entry for building and scaling custom hardware products are lower than commonly perceived.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "The Clapper was a bad smart home gadget — and a viral sensation",
+          "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history",
+          "source": "The Verge",
+          "summary": "Historical examples of consumer gadgets highlight the persistent gap between viral marketing success and actual functional reliability in smart devices.",
+          "tags": [
+            "hardware",
+            "history"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-07-17",

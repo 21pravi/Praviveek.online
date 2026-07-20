@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-17T04:36:29.756142+00:00",
+  "updated": "2026-07-20T05:01:03.286212+00:00",
   "items": [
+    {
+      "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
+      "url": "https://arxiv.org/abs/2607.16122v1",
+      "date": "2026-07-17",
+      "summary": "The authors introduce a method to diagnose specific LLM weaknesses by analyzing rubric-based evaluations, helping practitioners generate targeted training data to fix model failures.",
+      "authors": "Vipul Gupta, Zihao Wang, Razvan-Gabriel Dumitru et al.",
+      "tags": [
+        "llm",
+        "fine-tuning",
+        "paper"
+      ]
+    },
+    {
+      "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
+      "url": "https://arxiv.org/abs/2607.16066v1",
+      "date": "2026-07-17",
+      "summary": "This survey explores how agentic AI can automate 5G and 6G network management, providing a roadmap for integrating autonomous reasoning and planning into telecommunications infrastructure.",
+      "authors": "Mazene Ameur, Abdelkader Mekrache, Bouziane Brik et al.",
+      "tags": [
+        "agentic-ai",
+        "networks",
+        "paper"
+      ]
+    },
+    {
+      "title": "BayesPO: Bayesian Prompt Optimization via Parallel-Tempered Gradient-Guided Discrete MCMC",
+      "url": "https://arxiv.org/abs/2607.16001v1",
+      "date": "2026-07-17",
+      "summary": "The researchers treat prompt optimization as a Bayesian sampling problem, offering a more rigorous mathematical approach to finding effective instructions without retraining model weights.",
+      "authors": "Junjie Zhou, Zhijian Ou",
+      "tags": [
+        "llm",
+        "prompt-engineering",
+        "paper"
+      ]
+    },
+    {
+      "title": "Knowledge-Guided Cross-Modal Fusion for Adult-to-Pediatric ECG Transfer via Label-Conditioned Contrastive Alignment",
+      "url": "https://arxiv.org/abs/2607.15928v1",
+      "date": "2026-07-17",
+      "summary": "This framework improves pediatric ECG diagnosis by using knowledge-guided alignment to bridge the data gap between adult-heavy training sets and the unique requirements of pediatric patients.",
+      "authors": "Xinran Liu, Yuwen Li, Hongxiang Gao et al.",
+      "tags": [
+        "healthcare",
+        "multimodal",
+        "paper"
+      ]
+    },
     {
       "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
       "url": "https://arxiv.org/abs/2607.15095v1",
