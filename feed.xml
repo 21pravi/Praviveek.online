@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 05:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:42:01 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 21, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-21</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest examines the intersection of geopolitical strategy, hardware innovation, and the persistent challenges of algorithmic bias and safety. OpenAI is scared of open-weight models. Should the US be? · Google is working on a new AI chip designed to make Gemini more efficient · AI is more likely than humans to form biases when hiring · Safety and alignment in an era of long-horizon models · Who&#x27;s afraid of Chinese models?</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-20</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of hardware development, AI ethics, and the psychological impact of automated decision-making. Can an Apple lawsuit derail OpenAI’s hardware plans? · Claude Code uses Bun written in Rust now · Nonprofit Current AI is racing to build the World Wide Web of AI, free for all · ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ · How To use Claude&#x27;s Reflect dashboard and learn when it&#x27;s time to touch grass</description>
+    </item>
+    <item>
+      <title>Paper: SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis</title>
+      <link>https://arxiv.org/abs/2607.18116v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.18116v1</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This tool automatically detects and fixes spatial errors in LLM-generated educational animations, ensuring that visual elements do not overlap incorrectly.</description>
+    </item>
+    <item>
+      <title>Paper: The Shared Discovery Paradox: How a One-Answer Rule Turns Better Information into Worse Search</title>
+      <link>https://arxiv.org/abs/2607.18045v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.18045v1</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This study reveals that sharing a single best-guess recommendation among a group can paradoxically reduce overall search success compared to decentralized, diverse exploration.</description>
+    </item>
+    <item>
+      <title>Paper: Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation</title>
+      <link>https://arxiv.org/abs/2607.18029v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.18029v1</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>By mapping domain-specific metadata to an ontology, you can enable LLMs to generate accurate database queries without needing expensive fine-tuning or complex retrieval setups.</description>
+    </item>
+    <item>
+      <title>Paper: Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference</title>
+      <link>https://arxiv.org/abs/2607.18225v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.18225v1</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This framework treats RAG as a nearest-neighbor matching problem, allowing data scientists to optimize decision-making policies by retrieving and analyzing action-specific evidence.</description>
     </item>
     <item>
       <title>The Week in AI — July 17, 2026</title>

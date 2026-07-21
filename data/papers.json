@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-20T05:01:03.286212+00:00",
+  "updated": "2026-07-21T04:42:01.515381+00:00",
   "items": [
+    {
+      "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+      "url": "https://arxiv.org/abs/2607.18116v1",
+      "date": "2026-07-20",
+      "summary": "This tool automatically detects and fixes spatial errors in LLM-generated educational animations, ensuring that visual elements do not overlap incorrectly.",
+      "authors": "Lopez Jhon, Hinojosa Carlos, Ghanem Bernard",
+      "tags": [
+        "llm",
+        "animation",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Shared Discovery Paradox: How a One-Answer Rule Turns Better Information into Worse Search",
+      "url": "https://arxiv.org/abs/2607.18045v1",
+      "date": "2026-07-20",
+      "summary": "This study reveals that sharing a single best-guess recommendation among a group can paradoxically reduce overall search success compared to decentralized, diverse exploration.",
+      "authors": "Yohei Nakajima",
+      "tags": [
+        "decision-making",
+        "search",
+        "paper"
+      ]
+    },
+    {
+      "title": "Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation",
+      "url": "https://arxiv.org/abs/2607.18029v1",
+      "date": "2026-07-20",
+      "summary": "By mapping domain-specific metadata to an ontology, you can enable LLMs to generate accurate database queries without needing expensive fine-tuning or complex retrieval setups.",
+      "authors": "Blake G. Fitch, Cato Elia Kurtz",
+      "tags": [
+        "llm",
+        "knowledge-graph",
+        "paper"
+      ]
+    },
+    {
+      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
+      "url": "https://arxiv.org/abs/2607.18225v1",
+      "date": "2026-07-20",
+      "summary": "This framework treats RAG as a nearest-neighbor matching problem, allowing data scientists to optimize decision-making policies by retrieving and analyzing action-specific evidence.",
+      "authors": "Masahiro Kato, Taka Kato",
+      "tags": [
+        "rag",
+        "causal-inference",
+        "paper"
+      ]
+    },
     {
       "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
       "url": "https://arxiv.org/abs/2607.16122v1",
