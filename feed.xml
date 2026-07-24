@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 04:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:20:49 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — July 24, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-07-24</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This week’s developments reveal a volatile industry shifting from experimental chatbots toward high-stakes autonomous agents, aggressive hardware verticalization, and complex geopolitical and safety entanglements. The Reality Gap in Autonomy · The Shift to Vertical Hardware · Geopolitics and Corporate Protectionism</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 24, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-24</link>

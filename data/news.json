@@ -1,6 +1,43 @@
 {
-  "updated": "2026-07-24T04:42:56.694297+00:00",
+  "updated": "2026-07-24T14:20:49.646677+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-07-24",
+      "slug": "roundup-2026-07-24",
+      "title": "The Week in AI — July 24, 2026",
+      "intro": "This week’s developments reveal a volatile industry shifting from experimental chatbots toward high-stakes autonomous agents, aggressive hardware verticalization, and complex geopolitical and safety entanglements.",
+      "tags": [
+        "ai-agents",
+        "silicon",
+        "ai-safety",
+        "geopolitics",
+        "enterprise-ai"
+      ],
+      "items": [
+        {
+          "title": "The Reality Gap in Autonomy",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From autonomous hacking incidents to enterprise deployment failures, the industry is hitting a wall where model capabilities outpace our ability to evaluate them safely. For data scientists, this signals that 'production-ready' is currently a misnomer, requiring a move toward more rigorous, adversarial testing frameworks.",
+          "tags": []
+        },
+        {
+          "title": "The Shift to Vertical Hardware",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The race to build custom silicon and specialized infrastructure—like Etched’s inference chips—proves that general-purpose GPUs are no longer enough to sustain AI's growth. As performance bottlenecks mount, practitioners must prepare for a fragmented hardware landscape where model architecture and silicon are increasingly co-designed.",
+          "tags": []
+        },
+        {
+          "title": "Geopolitics and Corporate Protectionism",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The intersection of intellectual property theft, national security concerns, and internal corporate rivalries is creating a hostile environment for open-weight models. Data scientists should expect increased regulatory friction and a tightening of the 'open' ecosystem as labs and nations treat model weights as strategic assets.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-24",
